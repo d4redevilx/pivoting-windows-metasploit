@@ -1,4 +1,4 @@
-# Pivoting en Windows usando Mestasploit
+# Pivoting en Windows usando Metasploit
 
 ![Laboratorio de pivoting en Windows](./Pivoting%20Windows.png)
 
